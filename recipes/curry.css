@@ -1,0 +1,27 @@
+div {
+    margin: 0 auto 0 auto;
+    background-color: red;
+    width: 940px;
+}
+ul, ol {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+
+
+}
+
+img { 
+    width: 500px;
+    height: 500px;
+}
+h2, h3, img, ul, ol {
+    margin-left: 100px;
+}
+
+h1{
+    text-align: center;
+}
+body {
+    background-image: url(https://64.media.tumblr.com/5753138b5810f6ff0809a659243d9aa5/tumblr_pirymjWavp1tdnbbbo1_540.gifv);
+}

@@ -1,0 +1,27 @@
+div {
+    margin: 0 auto 0 auto;
+    background-color: orange;
+    width: 940px;
+}
+ul, ol {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+
+
+}
+
+img { 
+    width: 500px;
+    height: 500px;
+}
+h2, h3, img, ul, ol {
+    margin-left: 100px;
+}
+
+h1{
+    text-align: center;
+}
+body {
+    background-image: url(https://i.pinimg.com/originals/c3/34/f5/c334f5abea9a68da6b59ef3b7313dc74.gif);
+}
